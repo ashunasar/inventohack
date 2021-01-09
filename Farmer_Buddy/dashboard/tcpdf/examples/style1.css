@@ -1,0 +1,32 @@
+#container{
+    height: 10000px;
+    margin-right: 200px;
+    margin-left: 200px;
+    border: solid;
+}
+
+.uper_info{
+/*    border: solid 2px red;*/
+    height: 200px;
+}
+
+.basic_sub{
+    margin-left: 80px;font-weight: 900;
+}
+
+
+table{
+        margin-left: 80px;
+    width: 50%;
+    height: 64%;
+}
+
+.tr_special{
+       background-color: #4fb1ff;
+       text-align: center;
+}
+
+.tr_normal{
+      
+       text-align: center;
+}

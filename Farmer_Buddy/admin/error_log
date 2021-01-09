@@ -1,0 +1,9 @@
+[04-Jun-2020 07:38:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[04-Jun-2020 07:42:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[04-Jun-2020 07:45:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[05-Jun-2020 13:24:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[05-Jun-2020 13:25:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[13-Jun-2020 21:19:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[14-Jun-2020 05:47:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[14-Jun-2020 05:47:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4
+[14-Jun-2020 05:47:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/invens8g/public_html/Farmer_Buddy/admin/includes/header.php on line 4

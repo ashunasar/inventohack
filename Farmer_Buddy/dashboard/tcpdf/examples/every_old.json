@@ -1,0 +1,6432 @@
+[{
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Soyabean",
+	"price": "35",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Maize",
+	"price": "10",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Black gram",
+	"price": "50",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Green gram",
+	"price": "75",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Kodo millet",
+	"price": "",
+    "ph":"4.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Kutki millet",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Sesame",
+	"price": "240",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Castor",
+	"price": "45",
+    "ph":"5.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Barley",
+	"price": "20",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Pigeonpea",
+	"price": "80",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Nuts",
+	"price": "80",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Wheat",
+	"price": "19",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Chickpea",
+	"price": "60",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Peas",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Berseem",
+	"price": "100",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Oats",
+	"price": "80",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Linseed",
+	"price": "410",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Lentil",
+	"price": "54",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Mustard",
+	"price": "35",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Toria",
+	"price": "6.5",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "jabalpur",
+	"crop": "Paddy",
+	"price": "24",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Black gram",
+	"price": "30",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Pigeon pea",
+	"price": "120",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Wheat",
+	"price": "28",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "satna",
+	"crop": "Linseed",
+	"price": "75",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Pigeonpea",
+	"price": "120",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Kutki",
+	"price": "1200",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Black gram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Wheat",
+	"price": "20",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Lentil",
+	"price": "",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Pea",
+	"price": "40",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "katni",
+	"crop": "Linseed",
+	"price": "60",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Rice",
+	"price": "23",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Blackgram",
+	"price": "50",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Pigeon pea",
+	"price": "120",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Sesame",
+	"price": "110",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Sorghum",
+	"price": "25",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Soyabean",
+	"price": "40",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Wheat",
+	"price": "20",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Lentil",
+	"price": "50",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Pea",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "panna",
+	"crop": "Rape mustard",
+	"price": "35",
+    "ph":"8.3"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Rice",
+	"price": "23",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Soyabean",
+	"price": "35",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Kutki",
+	"price": "100",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Wheat",
+	"price": "20",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Pigeonpea",
+	"price": "80",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Chickpea",
+	"price": "80",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Lentil",
+	"price": "45",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "seoni",
+	"crop": "Linseed",
+	"price": "50",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Rice",
+	"price": "24",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Soyabean",
+	"price": "43",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Sorghum",
+	"price": "30",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Blackgram",
+	"price": "90",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Pigeonpea",
+	"price": "85",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Wheat",
+	"price": "20",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Chickpea",
+	"price": "50",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Lentil",
+	"price": "54",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Linseed",
+	"price": "70",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rewa",
+	"crop": "Barley",
+	"price": "20",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Rice",
+	"price": "24",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Pigeonpea",
+	"price": "120",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Kudo millet",
+	"price": "65",
+    "ph":"4.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Blackgram",
+	"price": "60",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Sorghum",
+	"price": "30",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Wheat",
+	"price": "21",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Chickpea",
+	"price": "55",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Barley",
+	"price": "20",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Lentil",
+	"price": "52",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sidhi",
+	"crop": "Linseeds",
+	"price": "65",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Pearl millet",
+	"price": "38",
+    "ph":"7.6"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Niger",
+	"price": "60",
+    "ph":"7.1"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Pigeon pea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Mustard",
+	"price": "35",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Linseed",
+	"price": "400",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Lentil",
+	"price": "45",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "anuppur",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Pigeonpea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Kudo kutki",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Chickpea",
+	"price": "73",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Barley",
+	"price": "27",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "linseed",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "singrauli",
+	"crop": "Lentil",
+	"price": "52",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Minor millet",
+	"price": "",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Pigeon pea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Linseed",
+	"price": "410",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Rapeseed",
+	"price": "19",
+    "ph":"8.3"
+}, {
+	"state": "madhyapradesh",
+	"district": "balaghat",
+	"crop": "Mustard",
+	"price": "37",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Kudokutki",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Pigeonpea",
+	"price": "124",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Sesame",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Wheat",
+	"price": "26",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Linseed",
+	"price": "400",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "umaria",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Rice",
+	"price": "27",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Minor millet",
+	"price": "",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Niger",
+	"price": "",
+    "ph":"7.1"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Pigeonpea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Soyabean",
+	"price": "47",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Peas",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Mustard",
+	"price": "37",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Lentil",
+	"price": "54",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandla",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Kudokutki",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Niger",
+	"price": "",
+    "ph":"7.1"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Blackgram",
+	"price": "82",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Lentil",
+	"price": "57",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Linseed",
+	"price": "412",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Chickpea",
+	"price": "71",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Kudokutki",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Pigeonpea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Blackgram",
+	"price": "81",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Sesame",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Blackgram",
+	"price": "83",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Mustard",
+	"price": "37",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shahdol",
+	"crop": "Linseed",
+	"price": "412",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Soyabean",
+	"price": "47",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Blackgram",
+	"price": "81",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Chickpea",
+	"price": "71",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Wheat",
+	"price": "26",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sagar",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "dindori",
+	"crop": "Linseed",
+	"price": "413",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Pigeon pea",
+	"price": "127",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Sesame",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Chickpea",
+	"price":  "71",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "damoh",
+	"crop": "Linseed",
+	"price": "400",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhopal",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhopal",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhopal",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhopal",
+	"crop": "Wheat",
+	"price": "26",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhopal",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Maize",
+	"price": "18",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Pigeon pea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Wheat",
+	"price": "26",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Gram",
+	"price": "32",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sehore",
+	"crop": "Lentile",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"67"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Pigeonpea",
+	"price": "127",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Pea",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "raisen",
+	"crop": "Linseed",
+	"price": "400",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Pigeon pea",
+	"price": "127",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Chicken pea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "vidisha",
+	"crop": "Pea",
+	"price": "78",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Pigeonpea",
+	"price": "128",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Chickpea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Sorghum",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Sugarcane",
+	"price": "11",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Pea",
+	"price": "78",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "narsinghpur",
+	"crop": "Summer greengram",
+	"price": "75",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Soyabean ",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Pigeon pea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "hoshangabad",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "morena",
+	"crop": "Pearl millet",
+	"price": "40",
+    "ph":"7.6"
+}, {
+	"state": "madhyapradesh",
+	"district": "morena",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "morena",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "morena",
+	"crop": "Sesamum",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "morena",
+	"crop": "Pigeon pea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Paddy",
+	"price": "25",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Jowar",
+	"price": "22",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Bajra",
+	"price": "40",
+    "ph":"7.6"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Arhar",
+	"price": "85",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Til",
+	"price": "230",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Oats",
+	"price": "80",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "bhind",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Paddy",
+	"price": "26",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Bajra",
+	"price": "40",
+    "ph":"7.6"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "gwalior",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Groundnut",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "shivpuri",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Jowar",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Greengram",
+	"price": "76",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "guna",
+	"crop": "Coriander",
+	"price": "72",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Pearl millet",
+	"price": "40",
+    "ph":"7.6"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "sheopur",
+	"crop": "Rapeseed",
+	"price": "18",
+    "ph":"8.3"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Soyabean",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Urd",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Moong",
+	"price": "95",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Gram",
+	"price": "32",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Lentil",
+	"price": "56",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "ashokanagar",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Soyabean",
+	"price": "180",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Urd",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "jhabua",
+	"crop": "Paddy",
+	"price": "25",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Urd",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Cotton",
+	"price": "179",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "alirajpur",
+	"crop": "Paddy",
+	"price": "25",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "dhar",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dhar",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dhar",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "dhar",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dhar",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Groundnut",
+	"price": "75",
+    "ph":"7.0" 
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Sesame",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Gram",
+	"price": "32",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "datia",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Sesame",
+	"price": "250",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Sorghum",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Groundnut",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Rice",
+	"price": "26",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Mustard",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Barley",
+	"price": "27",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "tikamgarh",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Mustard",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Blackgram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Soyabean",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Sorghum",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Pigeonpea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Groundnut",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Green gram",
+	"price": "75",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Pea",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Linseed",
+	"price": "400",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Lentile",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhatarpur",
+	"crop": "Barley",
+	"price": "26",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Sorghum",
+	"price": "20",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Pigeonpea",
+	"price": "125",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Niger",
+	"price": "80",
+    "ph":"7.1"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "betul",
+	"crop": "Pea",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Pea",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Soyabean",
+	"price": "44",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Sorghum",
+	"price": "20",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "chhindwara",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Sorghum",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ujjain",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "indore",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "indore",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "indore",
+	"crop": "Sorghum",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "indore",
+	"crop": "Wheat",
+	"price": "23",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "indore",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandsaur",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandsaur",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandsaur",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandsaur",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "mandsaur",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ratlam",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ratlam",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "ratlam",
+	"crop": "Chickpea",
+	"price": "71",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ratlam",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "ratlam",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "shajapur",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shajapur",
+	"crop": "Jowar",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "shajapur",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "shajapur",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "shajapur",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Sorghum",
+	"price": "18",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Pigeon pea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Urd",
+	"price": "",
+    "ph":""
+}, {
+	"state": "madhyapradesh",
+	"district": "rajgarh",
+	"crop": "Moong",
+	"price": "92",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Soyabean",
+	"price": "44",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Jowar",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "dewar",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "neemuch",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "neemuch",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "neemuch",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "neemuch",
+	"crop": "Mustard",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "neemuch",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Wheat",
+	"price": "25",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Sorghum",
+	"price": "18",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Pigeon pea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Gram",
+	"price": "35",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Groundnut",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Green gram",
+	"price": "75",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "khargone",
+	"crop": "Black gram",
+	"price": "80",
+    "ph":"7.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Sorghum",
+	"price": "19",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Paddy",
+	"price": "25",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Arhar",
+	"price": "85",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Maize",
+	"price": "17",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "khandwa",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Sorghum",
+	"price": "18",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Groundnut",
+	"price": "75",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Gram",
+	"price": "33",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "barwani",
+	"crop": "Wheat",
+	"price": "23",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Soyabean",
+	"price": "46",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Sorghum",
+	"price": "18",
+    "ph":"7.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Pigeon pea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "burhanpur",
+	"crop": "Gram",
+	"price": "32",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Soyabean",
+	"price": "45",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Cotton",
+	"price": "180",
+    "ph":"5.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Pigeon pea",
+	"price": "126",
+    "ph":"8.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Maize",
+	"price": "16",
+    "ph":"7.2"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Rice",
+	"price": "25",
+    "ph":"6.7"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Wheat",
+	"price": "24",
+    "ph":"6.8"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Chickpea",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Pea",
+	"price": "76",
+    "ph":"7.0"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Lentil",
+	"price": "55",
+    "ph":"6.5"
+}, {
+	"state": "madhyapradesh",
+	"district": "harda",
+	"crop": "Sugarcane",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Mango",
+	"price": "57",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Amla",
+	"price": "78",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Pomegranate",
+	"price": "110",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Guava",
+	"price": "58",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Citrus",
+	"price": "50",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Mango",
+	"price": "53",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Papaya",
+	"price": "31",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Guava",
+	"price": "54",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Ber",
+	"price": "20",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Mango",
+	"price": "67",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Guava",
+	"price": "51",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Citrus",
+	"price": "59",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Water chestnuts",
+	"price": "8.2",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Mango",
+	"price": "55",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Guava",
+	"price": "60",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Citrus",
+	"price": "58",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Water chestnuts",
+	"price": "",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Mango",
+	"price": "59",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Amla",
+	"price": "74",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Guava",
+	"price": "52",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Orange",
+	"price": "78",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Mango",
+	"price": "60",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Banana",
+	"price": "43",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Mango",
+	"price": "68",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Water chestnuts",
+	"price": "",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Orange",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Guava",
+	"price": "52",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Guava",
+	"price": "51",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Banana",
+	"price": "43",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Citrus",
+	"price": "51",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Papaya",
+	"price": "30",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Mango",
+	"price": "66",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Banana",
+	"price": "42",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Mango",
+	"price": "55",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Pomegranate",
+	"price": "107",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Munga",
+	"price": " ",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Papaya",
+	"price": "36",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Banana",
+	"price": "54",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Lime",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Guava",
+	"price": "68",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Chiku",
+	"price": "55",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Amla",
+	"price": "67",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Mango",
+	"price": "55",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Custard apple",
+	"price": "45",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Pomegranate",
+	"price": "118",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Banana",
+	"price": "48",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Guava",
+	"price": " 65",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Amla",
+	"price": "78",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Water chestnut",
+	"price": " ",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Karonda",
+	"price": "100",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Mango",
+	"price": "67",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Amla",
+	"price": "73",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Lime",
+	"price": "58",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Guava",
+	"price": "53",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Mango",
+	"price": "64",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Banana",
+	"price": "55",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Papaya",
+	"price": "37",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Amla",
+	"price": "73",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Lime",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Guava",
+	"price": "59",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Mango",
+	"price": "62",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Guava",
+	"price": "63",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Water chestnuts",
+	"price": " ",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Mango",
+	"price": "65",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Amla",
+	"price": "74",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Guava",
+	"price": "51",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Papaya",
+	"price": "31",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Citrus",
+	"price": "54",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Mango",
+	"price": "57",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Guava",
+	"price": "66",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Citrus",
+	"price": "52",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Banana",
+	"price": "41",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Mango",
+	"price": "57",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Guava",
+	"price": "59",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Orange",
+	"price": "53",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sehore",
+	"crop": "Mango",
+	"price": "68",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sehore",
+	"crop": "Guava",
+	"price": "53",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "sehore",
+	"crop": "Orange",
+	"price": "45",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Mango",
+	"price": "60",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Guava",
+	"price": "54",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Lime",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Ber",
+	"price": " ",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Jamun",
+	"price": " ",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Mango",
+	"price": "56",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Guava",
+	"price": "51",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidish",
+	"crop": "Lime",
+	"price": "53",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Ber",
+	"price": " ",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Jamun",
+	"price": "20",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Papaya",
+	"price": "31",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Guava",
+	"price": "65",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Mango",
+	"price": "64",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Citrus",
+	"price": "60",
+    "ph":"3.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Mango",
+	"price": "50",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Guava",
+	"price": "60",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Orange",
+	"price": "53",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Lemon",
+	"price": "53",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "morena",
+	"crop": "Mango",
+	"price": "66",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "morena",
+	"crop": "Guava",
+	"price": "54",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Amla",
+	"price": "79",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Ber",
+	"price": "20",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Lime",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Guava",
+	"price": "57",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Mango",
+	"price": "51",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Guava",
+	"price": "56",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Amla",
+	"price": "80",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Ber",
+	"price": "22",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Papaya",
+	"price": "34",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Mango",
+	"price": "65",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Amla",
+	"price": "68",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Ber",
+	"price": "18",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Papaya",
+	"price": "34",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Lemon",
+	"price": "58",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Guava",
+	"price": "68",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "guna",
+	"crop": "Mango",
+	"price": "62",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "guna",
+	"crop": "Guava",
+	"price": "60",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Mango",
+	"price": "65",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Guava",
+	"price": "68",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Ber",
+	"price": "21",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Papaya",
+	"price": "34",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Amla",
+	"price": "68",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Mango",
+	"price": "52",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Guava",
+	"price": "59",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Orange",
+	"price": "85",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Banana",
+	"price": "50",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Mango",
+	"price": "65",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Sweet lime",
+	"price": "58",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Amla",
+	"price": "78",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Custard apple",
+	"price": "48",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Pomegranate",
+	"price": "98",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Ber",
+	"price": "26",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Guava",
+	"price": "66",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Orange",
+	"price": "55",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Mango",
+	"price": "52",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Sweet lime",
+	"price": "52",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Amla",
+	"price": "74",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Custard apple",
+	"price": "46",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Pomegranate",
+	"price": "119",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Ber",
+	"price": "21",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Papaya",
+	"price": "37",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Guava",
+	"price": "60",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Orange",
+	"price": "56",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Mango",
+	"price": "62",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Guava",
+	"price": "67",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Orange",
+	"price": "49",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Banana",
+	"price": "42",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "datiya",
+	"crop": "Guava",
+	"price": "55",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "datiya",
+	"crop": "Lime",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "datiya",
+	"crop": "Amla",
+	"price": "77",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Guava",
+	"price": "63",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Custard apple",
+	"price": "45",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Mango",
+	"price": "58",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Papaya",
+	"price": "36",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Lime",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Mango",
+	"price": "63",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Guava",
+	"price": "64",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Papaya",
+	"price": "33",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Lime",
+	"price": "53",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Banana",
+	"price": "49",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Amla",
+	"price": "73",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Mango",
+	"price": "68",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Guava",
+	"price": "61",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Orange",
+	"price": "70",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Mango",
+	"price": "68",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Guava",
+	"price": "59",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Orange",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Water chestnuts",
+	"price": " ",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Mango",
+	"price": "65",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Sweetlime",
+	"price": "51",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Grapes",
+	"price": "75",
+    "ph":"4.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Custard apples",
+	"price": "44",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Pomegranate",
+	"price": "96",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Lemon",
+	"price": "51",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Orange",
+	"price": "58",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Guava",
+	"price": "56",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Mango",
+	"price": "53",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Ber",
+	"price": "28",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Papaya",
+	"price": "33",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Lemon",
+	"price": "59",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Guava",
+	"price": "51",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Mango",
+	"price": "59",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Guava",
+	"price": "55",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Musk melon",
+	"price": "34",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Water melon",
+	"price": "19",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Papaya",
+	"price": "37",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Custard aple",
+	"price": "47",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Pomegranate",
+	"price": "100",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Lemon",
+	"price": "50",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Sweet lime",
+	"price": "54",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Orange",
+	"price": "57",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Mango",
+	"price": "53",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Guava",
+	"price": "59",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Orange",
+	"price": "61",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Lemon",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Grapes",
+	"price": "82",
+    "ph":"4.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Pomegranate",
+	"price": "114",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Amla",
+	"price": "76",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Papaya",
+	"price": "35",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Mango",
+	"price": "63",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Papaya",
+	"price": "37",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Custard aple",
+	"price": "44",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Aamla",
+	"price": "67",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Pomegranate",
+	"price": "93",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Grapes",
+	"price": "63",
+    "ph":"4.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Lemon",
+	"price": "44",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Sweet lime",
+	"price": "52",
+    "ph":"3.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Orange",
+	"price": "51",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Guava",
+	"price": "63",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Mango",
+	"price": "61",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Custard apple",
+	"price": "40",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Pomegranate",
+	"price": "118",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Amla",
+	"price": "74",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Ber",
+	"price": "22",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Papaya",
+	"price": "31",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Guava",
+	"price": "61",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Mango",
+	"price": "55",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Aamla",
+	"price": "68",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Lemon",
+	"price": "59",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Pomegranate",
+	"price": "117",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Orange",
+	"price": "63",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Guava",
+	"price": "58",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Papaya",
+	"price": "36",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Mango",
+	"price": "66",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Guava",
+	"price": "55",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Orange",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Custard apple",
+	"price": "41",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Lemon",
+	"price": "60",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Pomegranate",
+	"price": "115",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Papaya",
+	"price": "32",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Musk melon",
+	"price": "36",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Straw berry",
+	"price": "45",
+    "ph":"3.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Mango",
+	"price": "55",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Musk melon",
+	"price": "23",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Papaya",
+	"price": "36",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Water melon",
+	"price": "20",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Banana",
+	"price": "46",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Guava",
+	"price": "50",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Mango",
+	"price": "59",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Custard aple",
+	"price": "41",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Pomegranate",
+	"price": "102",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Grapes",
+	"price": "77",
+    "ph":"4.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Lemon",
+	"price": "45",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Sweet lime",
+	"price": "51",
+    "ph":"2.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Orange",
+	"price": "54",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Guava",
+	"price": "62",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Papaya",
+	"price": "31",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Mango",
+	"price": "67",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Papaya",
+	"price": "34",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Guava",
+	"price": "58",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Amla",
+	"price": "67",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Sapota",
+	"price": "46",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Banana",
+	"price": "49",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Mango",
+	"price": "66",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Guava",
+	"price": "67",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Orange",
+	"price": "58",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Banana",
+	"price": "41",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Lemon",
+	"price": "52",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Papaya",
+	"price": "33",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Mango",
+	"price": "62",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Amla",
+	"price": "79",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Gauava",
+	"price": "64",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Papaya",
+	"price": "30",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Sapota",
+	"price": "56",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Orange",
+	"price": "66",
+    "ph":"3.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Pea",
+	"price": "72",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Cowpea",
+	"price": "70",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Brinjal",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Sweet potato",
+	"price": "45",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Okra",
+	"price": "34",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Spinach",
+	"price": "15",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Frenchbean",
+	"price": "44",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Raddish",
+	"price": "38",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Bean",
+	"price": "58",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Colcocasia",
+	"price": "26",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Bottle gourd",
+	"price": "27",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Sponge gourd",
+	"price": "30",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jabalpur",
+	"crop": "Amaranths",
+	"price": "13",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Tomato",
+	"price": "48",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Cauliflower",
+	"price": "22",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Brinjal",
+	"price": "36",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "satna",
+	"crop": "Onion",
+	"price": "35",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Tomato",
+	"price": "45",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Brinjal",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Cauliflower",
+	"price": "23",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Onion",
+	"price": "28",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "katni",
+	"crop": "Cabbage",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Onion",
+	"price": "26",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Tomato",
+	"price": "62",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "panna",
+	"crop": "Okara",
+	"price": "33",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Tomato",
+	"price": "42",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Onion",
+	"price": "40",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Brinjal",
+	"price": "28",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Chili",
+	"price": "41",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "seoni",
+	"crop": "Cucurbits",
+	"price": "18"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Tomato",
+	"price": "44",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Cauliflower",
+	"price": "26",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Chilli",
+	"price": "39",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "rewa",
+	"crop": "Onion",
+	"price": "32",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Onion",
+	"price": "42",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Tomato",
+	"price": "55",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "sidhi",
+	"crop": "Okra",
+	"price": "33",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Bottle gourd",
+	"price": "32",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Brinjal",
+	"price": "26",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Cabbage",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Cauliflower",
+	"price": "25",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Green chillies",
+	"price": "50",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Onion",
+	"price": "45",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Snake gourd",
+	"price": "45",
+    "ph":"6.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Sweet potato",
+	"price": "40",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "anuppur",
+	"crop": "Tomato",
+	"price": "44",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Tomato",
+	"price": "59",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Onion",
+	"price": "28",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "singrauli",
+	"crop": "Okra",
+	"price": "44",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Cabbage",
+	"price": "16",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Brinjal",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Chilli",
+	"price": "51",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "balaghat",
+	"crop": "Tomato",
+	"price": "41",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Tomato",
+	"price": "65",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Okra",
+	"price": "32",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Brinjal",
+	"price": "31",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Potato",
+	"price": "22",
+    "ph":"5.9"	
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Chilies",
+	"price": "49",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Ridge gourd ",
+	"price": "28",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Arum",
+	"price": "38"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Radish",
+	"price": "26",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Bottle gourd",
+	"price": "21",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Pumpkin",
+	"price": "16",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Bitter gourd",
+	"price": "35",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Cauliflower",
+	"price": "25",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Cowpea",
+	"price": "60",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Spinach",
+	"price": "16",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Carrot",
+	"price": "34",
+    "ph":"6.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Sweet potato",
+	"price": "43",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Pea",
+	"price": "60",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Cabbage",
+	"price": "10",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Onion",
+	"price": "33",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "umaria",
+	"crop": "Watermelon",
+	"price": " ",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Pea",
+	"price": "62",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Tomato",
+	"price": "36",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Cucurbits",
+	"price": "45"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandla",
+	"crop": "Brinjal",
+	"price": "32",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Potato",
+	"price": " ",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Brinjal",
+	"price": "30",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Tomato",
+	"price": "62",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Pea",
+	"price": "54",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Cauliflower",
+	"price": "20",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Cabbage",
+	"price": "13",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Onion",
+	"price": "42",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Radish",
+	"price": "25",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Sem",
+	"price": "43"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Bitter guard",
+	"price": "39",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Bottle guard",
+	"price": "20",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "dindori",
+	"crop": "Pumpkin",
+	"price": "18",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Tomato",
+	"price": "57",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Okra",
+	"price": "30",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Brinjal",
+	"price": "38",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shahdol",
+	"crop": "Chilies",
+	"price": "37",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Onion",
+	"price": "39",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Tomato",
+	"price": "65",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Okra",
+	"price": "36",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Brinjal",
+	"price": "30",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Cauliflower",
+	"price": "24",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Chillie",
+	"price": "44",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sagar",
+	"crop": "Coriander",
+	"price": "12",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Sugar beet ",
+	"price": "33",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Onion",
+	"price": "40",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Tomato",
+	"price": "37",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Okra",
+	"price": "33",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "damoh",
+	"crop": "Brinjal",
+	"price": "29",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Onion",
+	"price": "35",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Tomato",
+	"price": "46",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Brinjal",
+	"price": "34",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Okra",
+	"price": "33",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Cauliflower",
+	"price": "22",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Sweet potato",
+	"price": "36",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhopal",
+	"crop": "Cabbage",
+	"price": "9",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "sehore",
+	"crop": "Tomato",
+	"price": "35",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "sehore",
+	"crop": "Potato",
+	"price": "20",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Onion",
+	"price": "28",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Tomato",
+	"price": "42",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Potato",
+	"price": "18",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Chillies",
+	"price": "43",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "raisen",
+	"crop": "Brijal",
+	"price": "34",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Onion",
+	"price": "37",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Tomato",
+	"price": "53",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Chillies",
+	"price": "50",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "vidisha",
+	"crop": "Brinjal",
+	"price": "41",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Potato",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Okra",
+	"price": "40",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Brinjal",
+	"price": "40",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Onion",
+	"price": "39",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Sweet potato",
+	"price": "44",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "narsinghpur",
+	"crop": "Tomato",
+	"price": "52",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Onion",
+	"price": "34",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Tomato",
+	"price": "43",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Brinjal",
+	"price": "44",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "hoshangabad",
+	"crop": "Jackfruit",
+	"price": "249",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "morena",
+	"crop": "Tomato",
+	"price": "40",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "morena",
+	"crop": "Potato",
+	"price": "22",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "morena",
+	"crop": "Onion",
+	"price": "25",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Tomato",
+	"price": "50",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Brinjal",
+	"price": "28",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "bhind",
+	"crop": "Pea",
+	"price": "54",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Onion",
+	"price": "41",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Tomato",
+	"price": "58",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Ginger",
+	"price": "49",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Chilies",
+	"price": "52",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Coriander",
+	"price": "11",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Arabi",
+	"price": "52",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "okra",
+	"price": "32",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Garlic",
+	"price": "129",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Cabbage",
+	"price": "9",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "gwalior",
+	"crop": "Cauliflower",
+	"price": "27",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Onion",
+	"price": "43",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Arabi",
+	"price": "28",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Brinjal",
+	"price": "39",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "okra",
+	"price": "40",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Garlic",
+	"price": "95",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Tomato",
+	"price": "48",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Cabbage",
+	"price": "13",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "shivpuri",
+	"crop": "Cauliflower",
+	"price": "27",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "guna",
+	"crop": "Potato",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "guna",
+	"crop": "Tomato",
+	"price": "53",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "guna",
+	"crop": "Onion",
+	"price": "44",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Potato",
+	"price": "19",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Tomato",
+	"price": "40",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "sheopur",
+	"crop": "Onion",
+	"price": "43",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Tomato",
+	"price": "59",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "ashokanagar",
+	"crop": "Onion",
+	"price": "37",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Potato",
+	"price": "20",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Tomato",
+	"price": "42",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "okra",
+	"price": "39",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Cauliflower",
+	"price": "28",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Cabbage",
+	"price": "12",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Green peas",
+	"price": "71",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Spinach",
+	"price": "15",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Bottle guard",
+	"price": "31",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "jhabua",
+	"crop": "Onion",
+	"price": "39",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Potato",
+	"price": "22",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Tomato",
+	"price": "55",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Bottle guard",
+	"price": "32",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Spinach",
+	"price": "13",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Green peas",
+	"price": "70",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Cabbage",
+	"price": "13",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Cauliflower",
+	"price": "24",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Lady’s finger",
+	"price": "44",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Brinjal",
+	"price": "32",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "alirajpur",
+	"crop": "Onion",
+	"price": "33",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Potato",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Tomato",
+	"price": "50",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "dhar",
+	"crop": "Onion",
+	"price": "33",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "datia",
+	"crop": "Tomato",
+	"price": "64",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "datia",
+	"crop": "Table pea",
+	"price": "50",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "datia",
+	"crop": "Potato",
+	"price": "22",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "datia",
+	"crop": "Cauliflower",
+	"price": "24",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "datia",
+	"crop": "Brinjal",
+	"price": "43",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Garden pea",
+	"price": "69",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Okra",
+	"price": "40",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Onion",
+	"price": "43",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Colocasia",
+	"price": "40"
+}, {
+	"state": "madhya pradesh",
+	"district": "tikamgarh",
+	"crop": "Tomato",
+	"price": "54",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Potato",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Tomato",
+	"price": "44",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Cowpea",
+	"price": "67",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Okra",
+	"price": "35",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Sweet potato",
+	"price": "35",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Cauliflower",
+	"price": "23",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Colocacia cucurbitaceus",
+	"price": "45"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Brinjal",
+	"price": "28",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhatarpur",
+	"crop": "Onion",
+	"price": "41",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Cabbage",
+	"price": "14",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Cauliflower",
+	"price": "21",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Pea",
+	"price": "74",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Chili",
+	"price": "49",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Tomato",
+	"price": "37",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "betul",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Chilli",
+	"price": "54",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Ginger",
+	"price": "50",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Garlic",
+	"price": "129",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "chhindwara",
+	"crop": "Onion",
+	"price": "35",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Tomato",
+	"price": "56",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Bitter gourd",
+	"price": "48",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Bottle gourd",
+	"price": "32",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Cauliflower",
+	"price": "22",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Sweet potato",
+	"price": "40",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Green peas",
+	"price": "62",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Brinjal",
+	"price": "25",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Lady’s finger",
+	"price": "26",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "ujjain",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Ginger",
+	"price": "39",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Brinjal",
+	"price": "32",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Chillies",
+	"price": "36",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Lady’s finger",
+	"price": "45",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Garlic",
+	"price": "119",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Tomato",
+	"price": "47",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Cabbage",
+	"price": "16",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Cauliflower",
+	"price": "26",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "indore",
+	"crop": "Potato",
+	"price": "18",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Cauliflower",
+	"price": "28",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Sweet potato",
+	"price": "39",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Green pea",
+	"price": "74",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Arbi",
+	"price": "33",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Brinjal",
+	"price": "30",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Ladys finger",
+	"price": "31",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Potato",
+	"price": "17",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Tomato",
+	"price": "64",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Carrot",
+	"price": "27",
+    "ph":"6.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Shalgam",
+	"price": "30",
+    "ph":"3.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Radish",
+	"price": "35",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Bitter gourd",
+	"price": "32",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Spinach",
+	"price": "15",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Kaddu vargoya",
+	"price": "16",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Cucumber",
+	"price": "42",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Frenchbeans",
+	"price": "47",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "mandsaur",
+	"crop": "Barbati",
+	"price": "38",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Tomato",
+	"price": "59",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Cabbage",
+	"price": "14",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Cauliflower",
+	"price": "23",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Green pea",
+	"price": "60",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Brinjal",
+	"price": "34",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Ladyfinger",
+	"price": "40",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Onion",
+	"price": "36",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "ratlam",
+	"crop": "Kaddu",
+	"price": "20",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Bitter gourd",
+	"price": "33",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Kaddu vargoya",
+	"price": "15",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Cabbage",
+	"price": "14",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Cauliflower",
+	"price": "27",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Green peas",
+	"price": "65",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Brinjal",
+	"price": "34",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Ladys finger",
+	"price": "33",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "shajapur",
+	"crop": "Tomato",
+	"price": "62",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Potato ",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Onion",
+	"price": "37",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Brinjal",
+	"price": "27",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Arabi",
+	"price": "44",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Ladyfinger",
+	"price": "36",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Tomato",
+	"price": "65",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Cauliflower",
+	"price": "26",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Cabbage",
+	"price": "12",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Chilies",
+	"price": "47",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Fenugreek leaves",
+	"price": "14",
+    "ph":"8.2"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Green pea",
+	"price": "67",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Cucurbits",
+	"price": "44"
+}, {
+	"state": "madhya pradesh",
+	"district": "rajgarh",
+	"crop": "Garlic",
+	"price": "126",
+    "ph":"5.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Kaddu vargoya",
+	"price": "16",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Green peas",
+	"price": "59",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Cabbage",
+	"price": "9",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Cauliflower",
+	"price": "23",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Brinjal",
+	"price": "37",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Ladys finger",
+	"price": "45",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Potato",
+	"price": "20",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "dewas",
+	"crop": "Tomato",
+	"price": "65",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Tomato",
+	"price": "45",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Cucumber",
+	"price": "31",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Frenchbeans",
+	"price": "40",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Carrot",
+	"price": "42",
+    "ph":"6.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Radish",
+	"price": "29",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Bitter guard",
+	"price": "52",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Cucurbits",
+	"price": "44",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Cabbage",
+	"price": "9",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Cauliflower",
+	"price": "20",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Sweet potato",
+	"price": "43",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Potato",
+	"price": "16",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Lady finger",
+	"price": "25",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Brinjal",
+	"price": "43",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Cow pea",
+	"price": "35",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "neemuch",
+	"crop": "Spinach",
+	"price": "14",
+    "ph":"5.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Potato",
+	"price": "21",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Tomato",
+	"price": "35",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "khargone",
+	"crop": "Onion",
+	"price": "34",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Bitter gourd",
+	"price": "50",
+    "ph":"4.4"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Cauliflower",
+	"price": "24",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Kaddu",
+	"price": "7.5",
+    "ph":"7.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Sweet potato",
+	"price": "36",
+    "ph":"5.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Green pea",
+	"price": "54",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Brinjal",
+	"price": "35",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Ladys finger",
+	"price": "42",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "khandwa",
+	"crop": "Tomato",
+	"price": "50",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Potato",
+	"price": "24",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Cauliflower",
+	"price": "23",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Cabbage",
+	"price": "14",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Brinjal",
+	"price": "34",
+    "ph":"6.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Ladyfinger",
+	"price": "40",
+    "ph":"6.6"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Tomato",
+	"price": "59",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Onion",
+	"price": "36",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "barwani",
+	"crop": "Colocasia root",
+	"price": "48",
+    "ph":""
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Potato",
+	"price": "23",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Tomato",
+	"price": "62",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "burhanpur",
+	"crop": "Onion",
+	"price": "33",
+    "ph":"6.5"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Garden pea",
+	"price": "61",
+    "ph":"7.0"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Tomato",
+	"price": "46",
+    "ph":"4.7"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Potato",
+	"price": "20",
+    "ph":"5.9"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Cabbage",
+	"price": "11",
+    "ph":"6.8"
+}, {
+	"state": "madhya pradesh",
+	"district": "harda",
+	"crop": "Cauliflower",
+	"price": "20",
+    "ph":"7.0"
+}]

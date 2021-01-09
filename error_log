@@ -1,0 +1,16 @@
+[16-Feb-2020 22:10:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 560
+[16-Feb-2020 22:10:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 560
+[16-Feb-2020 22:10:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 560
+[16-Feb-2020 22:10:33 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 560
+[20-Feb-2020 22:48:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[20-Feb-2020 22:48:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693
+[21-Feb-2020 20:23:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[21-Feb-2020 20:23:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693
+[26-Feb-2020 13:25:52 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[26-Feb-2020 13:25:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693
+[21-Mar-2020 04:17:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[21-Mar-2020 04:17:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693
+[22-Mar-2020 00:18:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[22-Mar-2020 00:18:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693
+[24-Mar-2020 09:14:05 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/invens8g/public_html/index.php on line 693
+[24-Mar-2020 09:14:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/invens8g/public_html/index.php on line 693

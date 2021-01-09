@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Inventohack</title>
+  <link href="https://fonts.googleapis.com/css?family=Karla|Yeseva+One" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css'><link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<style type="text/css">
+  @media only screen and (max-width: 500px) {
+  #contacts1-2m {
+       height: 60vh !important;
+       padding-top: 70px !important;
+    
+  }
+}
+@media only screen and (max-width: 320px) {
+  #contacts1-2m {
+       height: 75vh !important;
+       padding-top: 70px !important;
+    
+  }
+}
+@media only screen and (max-width: 500px) {
+  #cinv1 {
+       margin-left: 90px; 
+    
+  }
+}
+</style>
+
+</head>
+<body>
+  <header class="header">
+    <nav class="navbar navbar-expand-lg fixed-top py-3">
+        <div class="container"><a href="../index.html" class="navbar-brand ">Inventohack</a>
+            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+            
+            <div id="navbarSupportedContent" class="collapse navbar-collapse">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active"><a href="../index.php" class="nav-link  ">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a href="../Farmer_Buddy/index.php" class="nav-link  ">Farmer Buddy</a></li>
+                    <li class="nav-item"><a href="../work.html" class="nav-link  ">How it really works!</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link  ">Products</a></li>
+
+                    <li class="nav-item"><a href="../team/index.html" class="nav-link  ">Team</a></li>
+
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div id="particles-js"></div>
+<!-- partial:index.partial.html -->
+<div :class="['container', isSelected ? 'container-selected':'', isReady ? 'container-ready':'']" id="app">
+  <div class="team-container">
+    
+    <div class="person-list" style="margin-top: 20px">
+      <div class="person" v-for="(person,index) in persons" @click="selectPerson(index,$event)"><img class="person-img" :src="person.photo">
+        <div class="person-details">
+          <h2 class="person-title">{{person.name}}</h2>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="team-detail">
+    <div class="team-detail-inner" v-if="isOk">
+      <div class="team-detail-left" :style=`background-image:url(${selectedPersonData.photo})`>
+        <div class="team-detail-photo"><img :src="selectedPersonData.photo" alt="">
+        </div>
+      </div>
+      <div class="team-detail-right">
+        <div class="team-detail-bio">
+          <div class="team-detail-header">
+            <h2 class="person-title">{{selectedPersonData.name}}</h2>
+            <p class="person-desc">{{selectedPersonData.title}}</p>
+            
+          </div>
+          <div class="team-detail-bio-content" v-html="selectedPersonData.bio">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d80705.86240889007!2d77.43484251481708!3d23.29321088494711!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb33ab0860ae62d8!2sInventohack%20Innovations!5e0!3m2!1sen!2sin!4v1581627590344!5m2!1sen!2sin" width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-2m" style="background-color: #efefef; padding-top: 70px; padding-bottom: 90px; height: 30vh; border-bottom: 5px solid #04e722;color: #949494">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-4"  id="fo">
+                <div style="display: block; padding-bottom: 40px;"><img id="cinv1" src="../img/Inventohack1.png" style=" height: 80px"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-4"  id="fo">
+                <p><strong>Address</strong><br>
+Nayapura, Lalghati, <br>
+Bhopal, Madhya Pradesh 462001</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-4"  id="fo">
+                <p><strong>Contacts</strong><br>
+Email: Inventohack2402@gmail.com<br>
+Phone: +91 9826480383, +91 7000550371<br>
+
+
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/vue-resource/1.2.1/vue-resource.min.js'></script><script  src="./script.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script><script  src="script.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script type="text/javascript" src="../particles.js"></script>
+<script type="text/javascript" src="../app.js"></script>
+
+</body>
+</html>

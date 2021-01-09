@@ -1,0 +1,4 @@
+[20-May-2020 12:29:59 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/login/login.php on line 5
+[20-May-2020 12:30:04 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/login/login.php on line 5
+[20-May-2020 12:30:53 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/login/login.php on line 5
+[20-May-2020 12:30:57 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home/invens8g/public_html/Farmer_Buddy/login/login.php on line 5
